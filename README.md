@@ -1,5 +1,5 @@
 # Deep-Learning-Project---KC-House-Sales
-A start to finish project where I build a deep learning model to predict house prices using kaggles KC house sales dataset.
+A start to finish project on jupyter notebook where I build a deep learning model to predict house prices using kaggles KC house sales dataset.
 
 ## EDA 
 - Visualise key features using seaborn and locate noteworthy trends
